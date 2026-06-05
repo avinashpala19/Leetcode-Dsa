@@ -24,3 +24,5 @@ And the *Goal* is to
 - Solve 300+ problems and build strong DSA intuition.
 
 If you find this useful, feel free to explore and learn along!
+
+(In the order of Easy, Medium and Hard level questions.)
